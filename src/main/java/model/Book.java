@@ -1,4 +1,4 @@
-package BookModel;
+package model;
 
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;

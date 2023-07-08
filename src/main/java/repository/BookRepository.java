@@ -1,6 +1,6 @@
-package BookRepository;
+package repository;
 
-import BookModel.Book;
+import model.Book;
 import org.springframework.data.repository.CrudRepository;
 
 public interface BookRepository extends CrudRepository<Book,Long> {
